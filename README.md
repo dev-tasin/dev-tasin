@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dev-tasin
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning MERN stack development
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me .. ahmedtasin94@gmail.com
